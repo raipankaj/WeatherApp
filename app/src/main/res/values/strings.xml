@@ -9,5 +9,22 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">WeatherJet</string>
+
+    <string name="sunny_24_degree">24°C</string>
+    <string name="dummy_date">24/3</string>
+    <string name="current_location">Hyderabad, IN</string>
+    <string name="shower">Shower</string>
+    <string name="please_wait">Please wait, fetching future predictions</string>
+
+    <string name="description_current_weather">Current Weather</string>
+    <string name="description_cloud_background">Cloud image as background</string>
+    <string name="description_weather_icon">Weather Icon</string>
+
+    <string-array name="quotes">
+        <item>If you want to see the sunshine, you have to weather the storm — Frank Lane</item>
+        <item>There is no such thing as bad weather, only different kinds of good weather — John Ruskin</item>
+        <item>I only feel angry when I see waste. When I see people throwing away things we could use — Mother Teresa</item>
+        <item>The Earth is what we all have in common — Wendell Berry</item>
+    </string-array>
 </resources>
