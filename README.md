@@ -7,12 +7,14 @@
 
 ## :scroll: Description
 Display the current weather information along with the predictions for the next ten days.
-When user click on the weather dialer it will also speak out the current temperature.
+When user clicks on the weather dialer it will also speak out the current temperature by animating the dialer.
 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;![Alt Text](https://github.com/raipankaj/WeatherApp/blob/main/weather.gif)
+
+
 
 ## License
 ```
